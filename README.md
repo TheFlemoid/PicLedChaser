@@ -1,6 +1,6 @@
-#PicLedChaser
+# PicLedChaser
 
-##LED Chaser Based on the PIC12F629 Microcontroller
+## LED Chaser Based on the PIC12F629 Microcontroller
 
 This is a quick project I put together in order to mess around with programming microcontrollers.
 It utilizes the PIC12F629 since they're cheap, I happened to have a bunch of them, and they're "resource
